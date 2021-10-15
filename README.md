@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Netflix-Clone
+Clone Netflix em ReactJS consumindo uma API do site 'themoviedb.org', estundando um pouco sobre consumo de API
+  <div>
+  <h1> Screenshots </h1>
+    <img align="center" alt="netflix-clone" height="500px" width="100%" src="https://github.com/francisco-das-chagas/Netflix-Clone/blob/4ccef3992f9d900e2383e8b9025c42220697eaeb/Template.jpg">
+  </div>
+>>>>>>> e437f2daee4b031295c84c1687926b7f4107630e
